@@ -16,6 +16,7 @@ class ContactIcon extends StatelessWidget {
           const Spacer(),
           IconButton(
               onPressed: () {
+                print("object");
                 launchUrl(Uri.parse(
                     'https://www.linkedin.com/in/muhammad-talha-129692378/'));
               },

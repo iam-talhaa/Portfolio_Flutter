@@ -19,7 +19,7 @@ class MenuButton extends StatelessWidget {
               borderRadius: BorderRadius.circular(20),
               child: Container(
                 height: defaultPadding * 2.0 * value,
-                width: defaultPadding * 3.0 * value,
+                width: defaultPadding * 2.0 * value,
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(10),
                     color: Colors.black,

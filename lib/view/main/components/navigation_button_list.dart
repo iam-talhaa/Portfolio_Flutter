@@ -20,6 +20,7 @@ class NavigationButtonList extends StatelessWidget {
             NavigationTextButton(onTap: () {}, text: 'Achievements'),
           ],
         ),
+        
       );
     },);
   }

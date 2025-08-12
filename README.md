@@ -4,7 +4,7 @@ Thank you for visiting my portfolio website repository. This Flutter-based websi
 
 ## Live Demo
 
-You can explore the live version of the website [Click to see live demo](https://hamad-anwar.github.io/Portfolio/#/).
+You can explore the live version of the website [Click to see live demo](https://iam-talhaa.github.io/Portfolio_Flutter/).
 
 ## Screenshots
 
@@ -72,8 +72,8 @@ I welcome contributions and suggestions from the community! If you come across a
 
 Your feedback and thoughts are highly valued. Feel free to connect with me through:
 
-- **Email:** rh676838@gmail.com
-- **LinkedIn:** [Hamad Anwar](https://www.linkedin.com/in/hamad-anwar)
+- **Email:** tahakhan4141@gmail.com
+- **LinkedIn:** [Muhammad Talha](https://www.linkedin.com/in/muhammad-talha-129692378/)
 
 ## License
 
@@ -81,4 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Designed and developed with ❤️ by [Hamad Anwar](https://www.linkedin.com/in/hamad-anwar/).
+### Designed and developed with ❤️ by [Muhammad Talha](https://www.linkedin.com/in/muhammad-talha-129692378/).
